@@ -1,7 +1,6 @@
 {
     "Dismiss": "Descartar",
     "Unknown device": "Dispositivo desconhecido",
-    "Welcome to Element": "Boas-vindas ao Element",
     "The message from the parser is: %(message)s": "A mensagem do parser é: %(message)s",
     "Invalid JSON": "JSON inválido",
     "Unexpected error preparing the app. See console for details.": "Erro inesperado na preparação da aplicação. Veja a consola para mais detalhes.",

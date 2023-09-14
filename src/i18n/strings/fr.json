@@ -1,7 +1,6 @@
 {
     "Dismiss": "Ignorer",
     "Unknown device": "Appareil inconnu",
-    "Welcome to Element": "Bienvenue sur Element",
     "Sign In": "Se connecter",
     "Create Account": "Créer un compte",
     "Explore rooms": "Parcourir les salons",
@@ -28,5 +27,18 @@
     "Use %(brand)s on mobile": "Utiliser %(brand)s sur téléphone",
     "Decentralised, encrypted chat &amp; collaboration powered by $matrixLogo": "Messagerie décentralisée, chiffrée &amp; une collaboration alimentée par $matrixLogo",
     "%(appName)s: %(browserName)s on %(osName)s": "%(appName)s : %(browserName)s pour %(osName)s",
-    "%(brand)s Desktop: %(platformName)s": "%(brand)s pour bureau : %(platformName)s"
+    "%(brand)s Desktop: %(platformName)s": "%(brand)s pour bureau : %(platformName)s",
+    "Gofast Message Translator": "Traducteur de messages Gofast",
+    "English": "Anglais",
+    "Français": "Français",
+    "Deutsch": "Allemand",
+    "Spanish": "Espagnol",
+    "Italian": "Italien",
+    "Dutch": "Néerlandais",
+    "Portuguese": "Portugais",
+    "Russian": "Russe",
+    "Japanese": "Japonais",
+    "Chinese": "Chinois",
+    "Korean": "Coréen"
+
 }

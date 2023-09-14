@@ -1,7 +1,6 @@
 {
     "Dismiss": "நீக்கு",
     "Unknown device": "அறியப்படாத சாதனம்",
-    "Welcome to Element": "எலிமெண்டிற்க்கு வரவேற்க்கிறோம்",
     "The message from the parser is: %(message)s": "பாகுபடுத்தி அனுப்பிய செய்தி: %(message)s",
     "Invalid JSON": "தவறான JSON",
     "Unexpected error preparing the app. See console for details.": "பயன்பாட்டைத் தயார் செய்வதில் எதிர்பாராத பிழை. விவரங்களுக்கு console ஐப் பார்க்கவும்.",

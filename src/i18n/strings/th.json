@@ -1,7 +1,6 @@
 {
     "Dismiss": "ปิด",
     "Unknown device": "อุปกรณ์ที่ไม่รู้จัก",
-    "Welcome to Element": "ยินดีต้อนรับสู่ Element",
     "The message from the parser is: %(message)s": "ข้อความจากตัวแยกวิเคราะห์คือ: %(message)s",
     "Invalid JSON": "JSON ไม่ถูกต้อง",
     "Sign In": "ลงชื่อเข้า",

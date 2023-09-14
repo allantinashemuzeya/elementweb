@@ -1,7 +1,6 @@
 {
     "Dismiss": "Afvis",
     "Unknown device": "Ukendt enhed",
-    "Welcome to Element": "Velkommen til Element",
     "The message from the parser is: %(message)s": "Beskeden fra parseren er: %(message)s",
     "Invalid JSON": "Ugyldig JSON",
     "Unexpected error preparing the app. See console for details.": "Uventet fejl ved forberedelse af appen. Se konsollen for detaljer.",

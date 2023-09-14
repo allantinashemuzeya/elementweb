@@ -1,7 +1,6 @@
 {
     "Unknown device": "Thiết bị không xác định",
     "Dismiss": "Bỏ qua",
-    "Welcome to Element": "Chào mừng tới Element",
     "Unexpected error preparing the app. See console for details.": "Có lỗi xảy ra trong lúc thiết lập ứng dụng. Mở bảng điều khiển (console) để biết chi tiết.",
     "The message from the parser is: %(message)s": "Thông báo của trình xử lý là: %(message)s",
     "Invalid JSON": "JSON không hợp lệ",

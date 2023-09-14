@@ -1,7 +1,6 @@
 {
     "Dismiss": "Abaikan",
     "Unknown device": "Perangkat tidak diketahui",
-    "Welcome to Element": "Selamat datang di Element",
     "Your Element configuration contains invalid JSON. Please correct the problem and reload the page.": "Konfigurasi Element Anda berisi JSON yang tidak absah. Mohon perbaiki masalahnya dan muat ulang laman ini.",
     "Invalid configuration: no default server specified.": "Konfigurasi tidak absah: server bawaan belum ditentukan.",
     "Explore rooms": "Jelajahi ruangan",
